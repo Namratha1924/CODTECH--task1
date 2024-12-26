@@ -2,7 +2,7 @@ Name:Namratha E
 Company:CODTECH IT SOLUTIONS
 ID:CT08FJM
 Domain:Figma App Development
-Duration:Dec20,2024 to jan20,2025
+Duration:Dec20,2024 to Jan20,2025
 Mentor:NEELA SANTHOSH KUMAR
 
 ## Welcome to the Weather App Wireframe!
