@@ -30,6 +30,8 @@ This design ensures a smooth user experience, combining simplicity with function
    - **Forecast Toggle**: Option to switch between "Hourly" and "Daily" weather views for more detailed forecasts.  
    - **Forecast Grid**: A section with graphical elements representing upcoming weather conditions for hours or days ahead.
 
+     ---
+
 ## Technology Used
    - **Design Tool**: Figma
    - **Fileformat**: .fig(Figma file format)
