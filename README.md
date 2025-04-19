@@ -17,6 +17,7 @@ The wireframe showcases a **Weather Application** designed with a clean and mini
 This design ensures a smooth user experience, combining simplicity with functionality.
 
 ---
+https://github.com/Namratha1924/CODTECH--task1/blob/main/Weather%20app.jpg
 
 ### Key Features  
 1. **Weather Search Screen**:  
